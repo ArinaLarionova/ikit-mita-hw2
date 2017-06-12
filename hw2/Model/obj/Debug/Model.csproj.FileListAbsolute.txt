@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2017\Projects\hw2\Model\bin\Debug\Model.dll
+C:\Users\user\documents\visual studio 2017\Projects\hw2\Model\bin\Debug\Model.pdb
+C:\Users\user\documents\visual studio 2017\Projects\hw2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\hw2\Model\obj\Debug\Model.dll
+C:\Users\user\documents\visual studio 2017\Projects\hw2\Model\obj\Debug\Model.pdb

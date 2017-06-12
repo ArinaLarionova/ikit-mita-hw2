@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\bin\Debug\View.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\bin\Debug\View.exe
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\bin\Debug\View.pdb
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\bin\Debug\Model.dll
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\bin\Debug\Model.pdb
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\obj\Debug\View.exe
+C:\Users\user\documents\visual studio 2017\Projects\hw2\View\obj\Debug\View.pdb
